@@ -1,0 +1,8 @@
+100|Pogoria|Gdansk|2|1|2|0|43000.0|2|5|4|2
+15|ToksycznySypki|2|5000.0|4000.0||4|folia|4|
+19|Wybuchowy|1|300.0|200.0||2|424|
+
+101|Globemaster|Sopot|0|0|0|0|23000.0|5|2|3|3
+
+102|Przyklad|Singapur|0|0|0|0|2000.0|4|1|1|1
+
